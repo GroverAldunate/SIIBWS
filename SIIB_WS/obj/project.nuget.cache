@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEcTDPbX1l5+zfc1B9XdMBN0xqmmPj56hFFAz3zSunk5xfIONRzrXRPvwGaWYI5jRpMnRlY6KJ/+BDXuRaBDDg==",
+  "success": true,
+  "projectFilePath": "D:\\gan\\Practicas\\C#\\WS Practicas\\SIIBWS\\SIIB_WS\\SIIB_WS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Grover Aldunate\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\Grover Aldunate\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Grover Aldunate\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Grover Aldunate\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Grover Aldunate\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Grover Aldunate\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Grover Aldunate\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
